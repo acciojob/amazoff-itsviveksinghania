@@ -1,8 +1,5 @@
 package com.driver;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class DeliveryPartner {
 
     private String id;

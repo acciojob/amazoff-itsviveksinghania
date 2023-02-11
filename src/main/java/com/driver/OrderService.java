@@ -58,6 +58,9 @@ public class OrderService {
 
     public String getLastDeliveryTimeByPartnerId(String partnerId){
         return orderRepository.getLastDeliveryTimeByPartnerId(partnerId);
+
+
+
     }
 
     public void deletePartnerById(String partnerId){
